@@ -68,7 +68,7 @@ const Card = ({ project, index }) => {
 // ===================== Projects Component =====================
 const Projects = () => {
   return (
-    <section id="projects" className="py-20 bg-gradient-to-b from-gray-900 to-gray-800">
+    <section id="projects" className="py-20 bg-gradient-to-b ">
       <div className="container mx-auto px-4">
         <div className="text-center text-[#cdd6f9] mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Our Projects</h2>

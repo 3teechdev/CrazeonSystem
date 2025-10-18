@@ -32,7 +32,7 @@ const Hero = () => {
           </p>
 
           {/* Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16 animate-scale-in">
+          <div className="flex flex-col sm:flex-row flex-wrap gap-4 justify-center mb-16 animate-scale-in">
             <Link to="/contact">
               <button className="flex items-center justify-center text-lg bg-[#1E3A8A] text-white px-6 py-3 rounded-lg shadow-lg hover:bg-[#1E40AF] hover:scale-105 transition-transform">
                 Get Started <ArrowRight className="ml-2 h-5 w-5" />

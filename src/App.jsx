@@ -12,7 +12,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <Header />,       // ✅ Header is main layout
+    element: <Header />,       
     children: [
       {
         path: '',
