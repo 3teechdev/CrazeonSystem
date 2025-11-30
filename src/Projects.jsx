@@ -9,7 +9,9 @@ const projects = [
     tags: ["HTML", "CSS", "JS"],
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszyGxUGWO6BPnbwsWQT9fGYMYaYGVKadjCg&s",
-    link: "https://bhavyp2311.github.io/travel-project/index.html",
+    // link: "https://bhavyp2311.github.io/travel-project/index.html",
+    link: "https://travel-project-sand.vercel.app/",
+
   },
   {
     title: "Music App",
